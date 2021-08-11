@@ -1,0 +1,2 @@
+# Segfault.h
+Segaults
