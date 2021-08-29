@@ -1,2 +1,2 @@
 # Segfault.h
-Segaults
+Segs your faults real good.
